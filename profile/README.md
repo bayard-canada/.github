@@ -1,7 +1,7 @@
 
 <div align="center">
-    <h3><img width=15%" src="assets/lang.gif" alt="Bonjour!" /></h3>
-    <a href="https://www.bayardcanada.ca/"><img src="assets/logo_bayard_canada_new.png" alt="Bayard Canada" /></a>
+    <h3><img width=15%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="Bonjour!" /></h3>
+    <a href="https://www.bayardcanada.ca/"><img src="http://www.bayardcanada.ca/wp-content/uploads/2014/09/logo_bayard_canada_horizont1-300x46.png" alt="Bayard Canada" /></a>
 </div>
 
 ---
